@@ -1,0 +1,4 @@
+There are a lot of concepts and ideologies out there (woow). 
+
+* [[permacomputing]]
+* [[hacker_ethics]]
