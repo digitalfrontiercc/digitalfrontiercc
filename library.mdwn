@@ -1,9 +1,0 @@
-A collection of various resources.
-
-### Articles
-
-* [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html/)
-
-### Videos
-
-* ITERATIONS 2024 Symposium [Day 1](https://www.youtube.com/watch?v=VhqmF4PNIfc) [Day 2](https://www.youtube.com/watch?v=RrtIS_x5qnA)

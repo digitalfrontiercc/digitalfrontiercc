@@ -1,0 +1,3 @@
+# The case against ChatGPT (and other LLMs)
+
+* [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html/)

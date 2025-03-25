@@ -1,0 +1,3 @@
+# Enshittification
+
+Enshittification, also known as crapification and platform decay, is the term used to describe the pattern in which online products and services decline in quality over time. Initially, vendors create high-quality offerings to attract users, then they degrade those offerings to better serve business customers, and finally degrade their services to users and business customers to maximize profits for shareholders. (https://en.wikipedia.org/wiki/Enshittification)

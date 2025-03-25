@@ -1,0 +1,19 @@
+# Decentralization
+
+Decentralization refers to the principle and practice in technology, governance, and organizational design that distributes power, control, and decision-making away from a central authority to multiple, often smaller, entities or individuals.
+
+When applied to technology, it refers to an architecture in which workloads, hardware and software are distributed, and aims to create systems that are more resilient, transparent, and democratic by reducing reliance on single points of control or failure.
+
+## Benefits of decentralisation
+
+## Sorts of decentralization
+
+### Peer-to-peer
+
+### Fediverse
+
+### Blockchain
+
+
+https://www.ibm.com/blog/blockchains-role-in-covid-19-response-and-recovery/
+

@@ -1,0 +1,24 @@
+# The myth of free speech on social media
+
+
+
+Part 1 of a 2 part series of articles on algorithmic social media and how it shapes our world view.
+
+Superstorm: One of the many effects of the increasing use of SNS in political discourse has been to give rise to an alleged 'unmediated' or
+'unfiltered' kind of communication. This idea has been often put forward by populist leaders and parties, who in recent years have accused the western media system of being controlled by
+'intellectual élites' who represent the enemy of the people'.
+Building on this assumption, populist political actors often praise SNS as the only neutral and independent arena for political discourse because it allows them to communicate directly with their electorate, advocate unrestricted popular sovereignty and reinforce the image of a friendly approachability. But can political discourse on SNS be really disintermediated? Whether it is political actors or citizens who make use of them, SNS present an ambivalent and contradictory situation. Their presence in the western political discourse has redefined the rules and boundaries of journalism, displaced intermediaries, and affected the organizational forms of politics itself - thus questioning who are the gatekeepers in today's political land-scape. But in spite of that, communications occurring on SNS are anything but free from intermediaries. Rather, there are new intermediaries which mediate between political actors and users- primarily the algorithms that govern SNS, which in turn give origin to a series of biases to which the message is subjected from its generated form to its read one. Therefore, even if some political actors sell their kind of communication as 'unmediated' and 'unfiltered, political messages on SNS are actually the result of an ultra-mediated communication frame-work,
+
+How do algorithms affect what we get to see, and what are the effects? -> article 2
+
+
+
+
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference, with further explanation and a [supporting link](https://website.com).
+
+Here is another footnote[^2].
+
+[^2]: Another reference.

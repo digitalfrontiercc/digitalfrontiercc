@@ -1,0 +1,25 @@
+Digital Minimalism is a philosophy and lifestyle that advocates for the intentional and mindful use of technology. It helps you question what digital communication tools (and behaviors surrounding these tools) add the most value to your life. It is motivated by the belief that intentionally and aggressively clearing away low-value digital noise, and optimizing your use of the tools that really matter, can significantly improve your life..
+
+The term was popularised by Cal Newport's book "Digital Minimalism: Choosing a Focused Life in a Noisy World". To be a digital minimalist, in other words, means you accept the idea that new communication technologies have the potential to massively improve your life,  but also recognize that realizing this potential is hard work.
+
+[Core principles of digital minimalism](https://calnewport.com/on-digital-minimalism/) include:
+* Missing out is not negative. 
+* Less can be more.
+* Start from first principles.
+* The best is different than the rest.
+* Digital clutter is stressful.
+* Attention is scarce and fragile.
+* Many of the best uses of the online world support better living offline.
+* Be wary of tools that solve a problem that didn’t exist before the tool. 
+* Activity trumps passivity.
+
+Helpful resourses:
+
+* [/r/digitalminimalism 'Read this first'](https://old.reddit.com/r/digitalminimalism/comments/bkfgsh/welcome_to_rdigitalminimalism_read_this_first)
+* [/r/digitalminimalism Wiki](https://old.reddit.com/r/digitalminimalism/wiki/index)
+* [/r/digitalminimalism Wiki: A Guide to Cal Newport's 30 Day Digital Declutter](https://old.reddit.com/r/digitalminimalism/wiki/declutter-guide)
+
+Literature:
+
+* Digital Minimalism: Choosing a Focused Life in a Noisy World -  Cal Newport
+* Reclaiming Conversation: The Power of Talk in a Digital Age - Sherry Turkle

@@ -1,21 +1,32 @@
 Welcome to the digital frontier wiki!
 
-Technology has become more integrated with our daily lives than ever. I know, it's a cliché saying, but that doesn't make it less true. How do we navigate today's world with technology in a way that is ethical, meaningful, and actually positively influences us? We've seen plenty of examples of how it negatively affects us, and there are most likely many more that you've never even heard of. 
+Technology has become more integrated with our daily lives than ever. I know, it's a cliché saying, but that doesn't make it less true. How do we navigate today's world with technology in a way that is ethical, meaningful, and actually positively influences us? We've seen plenty of examples of how it negatively affects us, and there are most likely many more that you've never even heard of.
 
 This wiki aims to answer two questions:
 
 * how does technology influence us today?
-* how do can we use technology in an ethical, meaningful, and positive manner?
+* how can we use technology in an ethical, meaningful, and positive manner?
 
-This wiki aims to make a central collection of resources (concepts, movements, and initiatives) on navigating today's digital landscape.
-
-This wiki is brand new. At the moment there aren't many pages to be found, but the hope is to keep building on it to make an expansive catalog.
+digitalfrontier.cc's mission is to create a central place for people to learn about our relationschip to technology and media. It's not a place with all answers, instead serving as a compass, guiding individuals toward deeper understanding and critical engagement with technology. For the mission statement, see [[mission_statement]].
 
 New to the wiki? Get started here.
 
-* [[concepts]]
-* [[literature]]
-* [[library]]
-* [[internet_culture]]
+* [The myth of free speech on social media](articles/the_myth_of_free_speech_on_social_media)
+* [How the algorithmic internet is hurting us](articles/how_the_algorithmic_internet_is_hurting_us)
+* [The case against using ChatGPT](articles/the_case_against_chatgpt)
+* [Philosophies for your relationship with technology]
+* [Sustainable computing]
+
+Quick access:
+
+* [[philosophies]] - A collection of philosophies on how we should interact with technology and how technology should be.
+* [(media) liberary](medialibrary)
+* [[internet_culture]] - Looking at internet history to make sense of how we got here.
+* [[spaces_and_places]] - Physical and digital spaces to meet new people.
+
+Guides:
+
+* [Why & How to leave Meta](articles/how_to_leave_meta)
+* [Desiging ethically responsible applications as a software engineer]
 
 Want to contribute? Great! See [[contributing]].

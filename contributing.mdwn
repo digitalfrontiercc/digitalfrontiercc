@@ -3,3 +3,13 @@ At the moment, digital frontier is hosted using GitHub pages. This means that on
 If you want to contribute, the only way (at the moment) is to clone the git repositories from the [GitHub repo](https://github.com/digitalfrontiercc/digitalfrontiercc_root), edit/make markdown files, and open a pull request. 
 
 Alternatively, you can reach me at quavers.31-fringe@icloud.com with the changes you want made, and I will reflect the changes on this end.
+
+Framework for a page:
+
+What is it?
+Why is it important?
+    Who? – asking about a person or other agent
+    What? – asking about an object or action
+    When? – asking about a time
+    Where? – asking about a place
+    Why? – asking about a reason or cause

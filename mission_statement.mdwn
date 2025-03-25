@@ -1,0 +1,11 @@
+# Mission Statement
+
+digitalfrontier.cc's mission is to create a central place for people to learn about our relationschip to technology and media. It's not a place with all answers, instead serving as a compass, guiding individuals toward deeper understanding and critical engagement with technology.
+
+We recognize that digitalfrontier in it's current form limits the audience to one that is willing to read (long) texts, and thus an audience that most likely already has established interest on the topic to bite through long texts. Thus, our goal is to informing and empowering this group and spark conversations fostering broaded discussions about ethical and meaningful technology use in everyday life.
+
+In the future, we want this platform to become not just a collection of resources, but a space for exploration, dialogue, and discovery, through bulletin board-esque and multi-medial communication.
+
+Excited to get started?
+* [[contributing]]
+* [[Getting Started](gettingstarted)]

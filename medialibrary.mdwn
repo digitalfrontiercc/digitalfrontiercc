@@ -1,0 +1,45 @@
+# Medialibrary
+
+A collection of various resources.
+
+## Articles
+
+* [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html/)
+* [You Can’t Post Your Way Out of Fascism](https://www.404media.co/you-cant-post-your-way-out-of-fascism/)
+
+## Videos
+
+* ITERATIONS 2024 Symposium [Day 1](https://www.youtube.com/watch?v=VhqmF4PNIfc) & [Day 2](https://www.youtube.com/watch?v=RrtIS_x5qnA)
+
+## Books
+
+### Capitalisation (?)
+
+* The age of surveillance capitalism: the fight for a human future at the new frontier of power - Shoshana Zuboff
+* Superstorm: Politics and Design in the Age of Information - Noemi Biasetton (2024)
+
+### Algorithms
+
+* Weapons of Math Destruction - Cathy O'Neil
+* The code of capital: how the law creates wealth and inequality - Katharina Pistor
+
+### Society
+
+* The Filter Bubble What the Internet Is Hiding from You - Eli Pariser
+* Reclaiming Conversation: The Power of Talk in a Digital Age - Sherry Turkle
+* The Spectacle 2.0: Reading Debord in the Context of Digital Capitalism -  Marco Briziarelli & Emiliana Armano
+* Artificial Intelligence A Guide For Thinking Humans - Melanie Mitchell
+
+### Internet Culture
+
+* [The Art of Hacking – Juli Laczko](https://laczkojuli.net/the-art-of-hacking/)
+
+## Research Articles
+
+### Communication
+
+* [What Are Meaningful Social Interactions in Today’s Media Landscape? A Cross-Cultural Survey](https://www.researchgate.net/publication/343608677_What_Are_Meaningful_Social_Interactions_in_Today's_Media_Landscape_A_Cross-Cultural_Survey)
+
+### Algorithms
+
+### Mediatization

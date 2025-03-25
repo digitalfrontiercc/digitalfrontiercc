@@ -1,0 +1,20 @@
+# Philosophies
+
+There are a lot of concepts and ideologies out there (woow). 
+
+Sustainable usage of technology:
+
+* [[permacomputing]]
+
+Our relationship with technology:
+
+* [Digital Minimalism](digitalminimalism) - Digital minimalism is a lifestyle that helps you question what digital communication tools add value to your life.
+
+Development philosophies:
+
+* [Free Software - Philosophy of the GNU Project](freesoftware)
+
+* [[hackerethic]]
+* [[decentralization]]
+
+These philosophies can only be applied to you personally. If you want to spread your opinion and your word, see [[Starting a movement]] (or something along these lines).
