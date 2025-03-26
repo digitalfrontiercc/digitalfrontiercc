@@ -1,5 +1,7 @@
 # How the algorithmic internet is hurting us
 
-Part 2 of a 2 part series of articles on algorithmic social media and how it shapes our world view.
+Part 2 of a 2 part series of articles on algorithmic social media and how it shapes our world view. 
+
+Part 1: [[The myth of free speech on social media]]
 
 Filter bubble - Eli Pariser

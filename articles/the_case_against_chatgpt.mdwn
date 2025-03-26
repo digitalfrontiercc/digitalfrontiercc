@@ -1,3 +1,6 @@
 # The case against ChatGPT (and other LLMs)
 
-* [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html/)
+** Still under construction **
+
+* [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html)
+* [Generative AI: What You Need To Know](https://needtoknow.fyi/) and specifically [the cards](https://needtoknow.fyi/cards/). Extremely extensive research with sources on what Generative AI can and can't do.

@@ -7,9 +7,13 @@ A collection of various resources.
 * [A Student’s Guide to Not Writing with ChatGPT - Arthur Perret](https://www.arthurperret.fr/blog/2024-11-14-student-guide-not-writing-with-chatgpt.html/)
 * [You Can’t Post Your Way Out of Fascism](https://www.404media.co/you-cant-post-your-way-out-of-fascism/)
 
+
+
 ## Videos
 
 * ITERATIONS 2024 Symposium [Day 1](https://www.youtube.com/watch?v=VhqmF4PNIfc) & [Day 2](https://www.youtube.com/watch?v=RrtIS_x5qnA)
+
+
 
 ## Books
 
@@ -34,7 +38,9 @@ A collection of various resources.
 
 * [The Art of Hacking – Juli Laczko](https://laczkojuli.net/the-art-of-hacking/)
 
-## Research Articles
+
+
+## Academic Research
 
 ### Communication
 
@@ -42,4 +48,19 @@ A collection of various resources.
 
 ### Algorithms
 
+* [Algorithmic Knowledge Gaps: A New Horizon of (Digital) Inequality](https://ijoc.org/index.php/ijoc/article/view/12450) (2020)
+* [Archiving, ordering, and searching: search engines, algorithms, databases, and deep mediatization](https://journals.sagepub.com/doi/10.1177/0163443718754652) (2018)
+* [Mediatized Public Sphere and Journalism in Times of Algorithms, Polarization and Crisis of Democracy in Brazil](http://www.sciencepublishinggroup.com/journal/paperinfo?journalid=202&doi=10.11648/j.ss.20231204.11) (2023)
+* [The social power of algorithms](https://doi.org/10.1080/1369118X.2016.1216147) (2017)
+* [Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management](https://journals.sagepub.com/doi/epdf/10.1177/2053951718756684?src=getftr&utm_source=sciencedirect_contenthosting&getft_integrator=sciencedirect_contenthosting) (2018)
+* [Algorithmic resistance: media practices and the politics of repair](https://doi.org/10.1080/1369118X.2019.1657162) (2018)
+ 
 ### Mediatization
+
+* [Mediatization or mediation? Alternative understandings of the emergent space of digital storytelling](https://journals.sagepub.com/doi/10.1177/1461444808089414) (2008)
+* [Postmodern politics and the battle for the future](http://www.tandfonline.com/doi/abs/10.1080/07393149808429830) (1998)
+* [Mediatization, Polarization, and Intolerance (Between Environments, Media, and Circulation)](https://books.google.co.jp/books/about/Mediatization_Polarization_and_Intoleran.html?id=RewsEAAAQBAJ&redir_esc=y) (2019)
+* [Digital Mediatisation and Social Construction: Unravelling the Role of Media in Shaping Society](https://journals.sagepub.com/doi/full/10.1177/09760911251325604) (2025)
+* [Questioning (Deep) Mediatization: A Historical and Anthropological Critique](https://ijoc.org/index.php/ijoc/article/view/15929) (2021)
+
+### Society

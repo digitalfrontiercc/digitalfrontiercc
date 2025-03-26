@@ -1,0 +1,7 @@
+# Roadmap
+
+According to its [[misschion_statement]], digitalfrontier.cc aims to 'create a central place for people to learn about our relationschip to technology and media'.
+
+Our vision is to realise this with an online platform where one can not only inform themselves, but also ask questions and converse. Similarly, it should be a platform where anyone can contribute to build collective knowledge.
+
+In it's current form, digitalfrontier.cc's tech stack does not allow for this, as it is a static site. We're actively looking at and considering alternative ways to realise the platform, heavily considering collective infrastructure.

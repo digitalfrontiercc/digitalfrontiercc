@@ -1,12 +1,34 @@
 # Meta is fucked
 
-We're in the age of the algorithmic internet {% cite lu_algorithmic_nodate %}. For the average user, almost every aspect of the internet is decided by personalized algorightms.
+We're in the age of the algorithmic internet.[^1] For the average user, almost every aspect of the internet is decided by personalized algorightms.
 
-If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person. Or, say, if you live in Israel vs. the Arab world {% cite security_defeating_2023 amnesty_global_2023 %}. Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads are, the more they get paid, so these companies are incentivised to collect as much personal data as possible, and to keep you on their platform as long as possible to show as many ads as they can.
+[^1]: [the algorithmic internet](https://www.paradigmtrilogy.com/assets/documents/issue-02/christina-lu--the-algorithmic-internet.pdf) - Christina Lu (Jan 2025)
 
-But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble {% cite pariser2011filter %}.
+If a right leaning person searches for "gaza", wildly different results will appear compared to a left leaning person.[^2] Or, say, if you live in Israel vs. the Arab world.[^3] Search results are tailored to each and every person, algorithms know exactly what to show you to keep you engaged (and addicted), so that they can keep serving you targeted ads. If you look at it like this, companies such as Meta and Google, are literally milking you out of your time and energy for their monetary gain. The more targeted the ads are, the more they get paid, so these companies are incentivised to collect as much personal data as possible, and to keep you on their platform as long as possible to show as many ads as they can.
 
-Meta has incited genocide in Myanmar {% cite noauthor_facebook_2021-1 noauthor_myanmar_2022 amnesty_social_2022 %}. Meta has caused major interference in elections {% cite talbot_facebook_2012 rosenberg_how_2018 %}. Meta has done an outright blackout and “shadowbanning” of Palestinian content {% cite amnesty_global_2023 %}. And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg {% cite nix_inside_2025 %}. Now, Meta lets users call women 'property' and queer people 'mentally ill' on their platforms {% cite yeo_meta_2025 %}.
+[^2]: [Defeating the Algorithms: The Arab Perspective on the Ongoing Israeli War on Gaza](https://www.paradigmtrilogy.com/assets/documents/issue-02/christina-lu--the-algorithmic-internet.pdf) - Security in Context (Jan 2023)
+
+[^3]: [Global: Social media companies must step up crisis response on Israel-Palestine as online hate and censorship proliferate](https://www.amnesty.org/en/latest/news/2023/10/global-social-media-companies-must-step-up-crisis-response-on-israel-palestine-as-online-hate-and-censorship-proliferate/) - Amnesty International (Oct 2023)
+
+But, this also creates a much bigger problem; the content you are served is presented as having no political bias. These algorithms keep serving us content that reinforces our world view, and makes it appear as if any other view is non-existant. Every single one of us has their own internet, specifically tailored for your views and opinions. We all live in our own filter bubble.[^4]
+
+[^4]: The Filter Bubble: What the Internet Is Hiding from You - Eli Pariser (Oct 2011)
+
+Meta has incited genocide in Myanmar.[^5]-[^6] Meta has caused major interference in elections .[^7]-[^8] Meta has done an outright blackout and “shadowbanning” of Palestinian content.[^9] And more recently, Meta is radically changing its policies and embracing Donald Trump by abolishing its fact-checking program, eliminating Diversity, Equity and Inclusivity initiatives, and replacing its former liberal-leaning policy head Nick Clegg.[^10] Now, Meta lets users call women 'property' and queer people 'mentally ill' on their platforms.[^11]
+
+[^5]: [Facebook and Genocide: How Facebook contributed to genocide in Myanmar and why it will not be held accountable](https://systemicjustice.org/article/facebook-and-genocide-how-facebook-contributed-to-genocide-in-myanmar-and-why-it-will-not-be-held-accountable/) - Daniel Zaleznik (Nov 2021)
+
+[^6]: [Myanmar: Facebook’s systems promoted violence against Rohingya; Meta owes reparations – new report](https://www.amnesty.org/en/latest/news/2022/09/myanmar-facebooks-systems-promoted-violence-against-rohingya-meta-owes-reparations-new-report/) - Amnesty International (Sep 2022)
+
+[^7]: [The Social Atrocity: Meta and the right to remedy for the rohingya](https://www.amnesty.org.uk/files/2022-09/Amnesty%20Report_The%20Social%20Atrocity%20Embargoed%200101%20bst%202909202.pdf?VersionId=yy5WtMpy3XN5MzwY5uy1muu6CwLwcmbg) - Amnesty International (Sep 2022)
+
+[^8]: [Facebook: The Real Presidential Swing State](https://www.technologyreview.com/2012/07/20/184198/facebook-the-real-presidential-swing-state/) - David Talbot (Sep 2012)
+
+[^9]: [How Trump Consultants Exploited the Facebook Data of Millions](https://www.technologyreview.com/2012/07/20/184198/facebook-the-real-presidential-swing-state/) - Matthew Rosenberg, Nicholas Confessore, and Carole Cadwalladr, the New York Times (Mar 2018)
+
+[^10]: [Inside Mark Zuckerberg’s Trump pivot](https://www.washingtonpost.com/technology/2025/01/26/mark-zuckerberg-trump-meta-fact-checking/) - Naomi Nix, and Elizabeth Dwoskin, the Washington Post (Jan 2025)
+
+[^11]: [Meta now lets users call women ’property’ and gay people ’mentally ill’](https://mashable.com/article/meta-facebook-instagram-content-policy-lgbtq-hate) - Amanda Yeo (Jan 2025)
 
 And that's only the tip of the iceberg of all of Meta's scandals.
 
@@ -48,11 +70,7 @@ But, the tough part is to get people to transition with you. Even if you're conv
 * Switch WhatsApp to Signal on your phone's homescreen
 * Change your profile picture on WhatsApp to something like this, courtesy of Reddit user [/u/agnibho](https://www.reddit.com/r/signal/comments/kv84ry/my_new_profile_picture_on_whatsapp/).
 
-<div class="row mt-3">
-    <div style="width: 200px">
-        {% include figure.liquid loading="eager" path="assets/img/fx1p68s4tqa61.png" %}
-    </div>
-</div>
+<img style="width: 200px" src="https://usvdh.com/assets/img/fx1p68s4tqa61-1400.webp">
 
 Telegram is also another alternative, but less appealing due to only a part of its communication being encrypted.
 

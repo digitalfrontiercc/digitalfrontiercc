@@ -1,24 +1,30 @@
 # The myth of free speech on social media
 
+This article is far from done, but it should give an idea for its contents.
 
+------
 
 Part 1 of a 2 part series of articles on algorithmic social media and how it shapes our world view.
 
-Superstorm: One of the many effects of the increasing use of SNS in political discourse has been to give rise to an alleged 'unmediated' or
-'unfiltered' kind of communication. This idea has been often put forward by populist leaders and parties, who in recent years have accused the western media system of being controlled by
-'intellectual élites' who represent the enemy of the people'.
-Building on this assumption, populist political actors often praise SNS as the only neutral and independent arena for political discourse because it allows them to communicate directly with their electorate, advocate unrestricted popular sovereignty and reinforce the image of a friendly approachability. But can political discourse on SNS be really disintermediated? Whether it is political actors or citizens who make use of them, SNS present an ambivalent and contradictory situation. Their presence in the western political discourse has redefined the rules and boundaries of journalism, displaced intermediaries, and affected the organizational forms of politics itself - thus questioning who are the gatekeepers in today's political land-scape. But in spite of that, communications occurring on SNS are anything but free from intermediaries. Rather, there are new intermediaries which mediate between political actors and users- primarily the algorithms that govern SNS, which in turn give origin to a series of biases to which the message is subjected from its generated form to its read one. Therefore, even if some political actors sell their kind of communication as 'unmediated' and 'unfiltered, political messages on SNS are actually the result of an ultra-mediated communication frame-work,
+In Noemi Biasetton's 'Superstorm: Design and Politics in the age of information',[^Superstorm] Noemi writes the following:
 
-How do algorithms affect what we get to see, and what are the effects? -> article 2
+[^Superstorm]: Superstorm: Design and Politics in the age of information - Noemi Biasetton (2024)
+
+"One of the many effects of the increasing use of SNS in political discourse has been to give rise to an alleged 'unmediated' or 'unfiltered' kind of communication. This idea has been often put forward by populist leaders and parties, who in recent years have accused the western media system of being controlled by 'intellectual élites' who represent the enemy of the people'. Building on this assumption, populist political actors often praise SNS as the only neutral and independent arena for political discourse because it allows them to communicate directly with their electorate, advocate unrestricted popular sovereignty and reinforce the image of a friendly approachability. But can political discourse on SNS be really disintermediated?"
+
+Especially in recent years, social media such as X and Truthsocial, and to a lesser extent other social media platforms, have been touted to allow for free speech and unmediated media controlled by big actors.
+
+However, this content is not unmediated and unbiased. Instead of a traditional news outlet being the mediary between the source of information and the public, algorithms govern what content we get to see. These algorithms are skewed in their bias in more ways than the traditional outlet mediated media.
+
+This ties into the idea of [Filter Bubbles](dictionary/filter_bubble), a term coined by Eli Pariser.[^FilterbubbleEli].
+
+[^FilterbubbleEli]: The Filter Bubble: What the Internet Is Hiding from You - Eli Pariser (2011)
+
+Algorithms designed to evoke negative engagement loops
 
 
 
 
 
-Here is a simple footnote[^1]. With some additional text after it.
 
-[^1]: My reference, with further explanation and a [supporting link](https://website.com).
-
-Here is another footnote[^2].
-
-[^2]: Another reference.
+How do algorithms affect what we get to see, and what are the effects? -> article 2 [[How the algorithmic internet is hurting us]]
