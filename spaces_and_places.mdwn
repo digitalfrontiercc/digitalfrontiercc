@@ -1,17 +1,149 @@
 # Spaces & Places
 
-## the Netherlands:
+## the Netherlands
 
-[varia.zone](https://varia.zone/) (Rotterdam) - a space for developing collective approaches to everyday technology.
+**Artist Spaces/Collective Spaces:**
 
-[.zip](https://zipspace.nl/) (Rotterdam) - artist-run project space, organizing events, exhibitions, workshops, test sessions and tool jams.
+- [varia.zone](https://varia.zone/) (Rotterdam) - at its core it aims at developing critical understandings of the technologies that surround us. Varia experiments with tools for building [physical and digital infrastructures in a collective way](https://varia.zone/en/pages/collective-infrastructures.html).
 
-[Creative Coding Utrecht](https://creativecodingutrecht.nl/en) (Utrecht) - a platform for digital creativity. CCU supports creators, connects organizations and transcends sectors, inspires audiences and shares knowledge with hobbyists and ICT professionals.
+- [.zip](https://zipspace.nl/) (Rotterdam) - artist-run project space, organizing events, exhibitions, workshops, test sessions and tool jams.
 
-[Waag Futurelab](https://waag.org/en/) (Amsterdam) - Waag reinforces critical reflection on technology, develops technological and social design skills, and encourages social innovation.
+- [Kiosk Rotterdam](https://kioskrotterdam.com/) (Rotterdam) - a bookshop, (riso) print workshop, and a leaky press run by artist Philippa Driest. The selection hosts radical/critical theory, fiction, poetry and self-publishing practices.
+
+- [Extra Practice](https://extrapractice.space) (Rotterdam) - Extra Practice is a space for working and learning in the North of Rotterdam, shared by six friends who are active in the field of art and design. The space originated from a desire to create a “school-after-school;” a fruitful environment for working and learning amongst peers. Within Extra Practice we support each other's individual practices, and organise workshops, presentations and public events to share insights and experiences.
+
+**Hacker Spaces/FabLabs:**
+
+- [LAG](https://www.laglab.org/) (Amsterdam) - LAG is a hacklab located in the Binnenpret in Amsterdam. It is inhabited by a heterogeneity of people, tools and practices that question our relation to technology and our interaction with specific technologies. LAG has no members, it is run by a loose collective of frequent and less frequent visitors and financed through donations and benefits. LAG originated from the Squatting Linux User Group
+
+- [Baltan Laboratories](http://baltanlaboratories.org/) (Eindhoven) - production and research lab supporting experimental media art, creative technology projects and collaborations between artists, designers and researchers. They focus on societal issues through a relational approach, creating spaces to rehearse living otherwise.
+
+- [madlab](https://madlab.nl/?lang=en) (Eindhoven) - 'Carving virtual pathways for future society'; an artist-run maker and electronics lab offering workshops, residencies and community projects around creative technology and hardware hacking. Working to democratize technology, initiate interdisciplinary innovation and foster social creativity with artists and scientists as catalysts.
+
+**Institutions:**
+
+- [Nieuwe Instituut](https://nieuweinstituut.nl/en) (Rotterdam) - the Netherlands national museum for architecture, design and digital culture and a unique museum house dating from 1933. Nieuwe Instituut focuses on major developments in society, such as the housing shortage, the climate crisis, and the emergence of artificial intelligence. Designers, including architects and digital creatives, make an important contribution to these developments.
+
+- [Forum Groningen](https://forum.nl/) (Groningen) - cultural centre combining a library, media lab, exhibition spaces and public programmes focused on knowledge, media, art and community engagement.
+
+**(Worker-owned) Non-Profit Organisations:**
+
+- [Creative Coding Utrecht](https://creativecodingutrecht.nl/en) (Utrecht) - a platform for digital creativity. CCU supports creators, connects organizations and transcends sectors, inspires audiences and shares knowledge with hobbyists and ICT professionals.
+
+- [Waag Futurelab](https://waag.org/en/) (Amsterdam) - Waag reinforces critical reflection on technology, develops technological and social design skills, and encourages social innovation.
+
+- [WORM](https://worm.org) (Rotterdam) -  multi-media alternative cultural centre focused on experimental, new media art, avant-garde and underground art, primarily music and movies. WORM organises festivals and concerts and movie nights, and runs an independent record label and a radio station. Part of the organisation is a media lab and a music studio, which run artist in residence programmes for artists and experimental musicians.
+
+- [OT301](https://www.ot301.nl/about-contact) (Amsterdam) - OT301 is a nonprofit project in which public functions, work spaces and housing are combined to contribute to the fields of art, politics and subculture. The project is run by a diverse, international community that organises itself in an association called EHBK (Eerste Hulp Bij Kunst / First Aid in Case of Art). Having started as a squat in 1999, OT301 today is collectively owned and committed to the values of autonomy and self-organization. Everything we do is based on the principle of inclusivity. All backgrounds, nationalities, genders, orientations and ages are welcome.
+
+**Festivals:**
+
+- [ITERATIONS](https://iterations.online/) - Creative coding symposium. Takes place every year. How do recent technological developments empower makers to generate new creative avenues? How is the creative coding landscape going to evolve in the coming few years?
+
+- [STRP](https://strp.nl/) (Eindhoven) - festival and platform for art, technology and electronic culture presenting exhibitions, performances, workshops and symposiums.
+
+- [Dutch Design Week (DDW)](https://ddw.nl/) (Eindhoven) - annual design festival showcasing design, technology and social innovation across the city with exhibitions, talks and industry programs.
+
+ <br/><br/>
+
+## Spain
+
+- [Tabakalera](https://www.tabakalera.eus/en/) (Donostia/San Sebastian) - Tabakalera is a contemporary culture and city-arts center in San Sebastián (Donostia), Spain, housed in a renovated former tobacco factory. It hosts exhibitions, artist residencies, film and media programs, a medialab for collaborative digital and media projects, workshops, performances and events, and places strong emphasis on community engagement through participatory programs, local partnerships, educational activities and open-access creative spaces.
+
+- [Espacio Open](https://espacioopen.com/#scroll) (Bilbao) - an ecosystem of creative and social projects of positive social impact located since 2009 in the Old Factory of Cookies of Bilbao (Fábrica Artiach) in the neighborhood of La Ribera de Deusto / Zorrotzaurre. We have more than 110,000 visitors per year, 14 workers and 2,000m2 of facilities. We work at the intersection of contemporary culture, technology and social issues. We develop our own projects in our spaces, as well as consulting and management projects and services for private and public entities. Our spaces house the center of creation and digital manufacture Fab Lab Bilbao. We promote and collaborate in creation, training and dissemination programs such as the Maker Faire Bilbao Festival, the creation residences for artists and designers and the European projects T-Factor, Eureka and Distributed Design.
+
+ <br/><br/>
+
+## Belgium
+
+**Institutions:**
+
+- [Stuk](https://www.stuk.be/en/mission-vision) (Leuven) - STUK is an international arts centre that takes care of artists and audience across generations, brings them together and looks for an active relation between both. STUK is a House for Dance, Image and Sound where experience, encounters and dialogue are key. Driven by expertise, curiosity and an open view of the world, STUK wants to stimulate talent development and renewal within dance, visual and audiovisual arts, sound art and adventurous music. STUK creates connections with education, science, heritage and youth work. That way we help create a wide base for the arts, as a motor for different ways of thinking within society.
+
+**(Worker-owned) Non-Profit Organisations:**
+
+- [Constant](https://constantvzw.org/site/-About-Constant-7-.html) (Brussels) - Constant is a non-profit organisation based in Brussels since 1997 and active in the fields of art, media and technology. Constant develops, investigates, supports and experiments. Constant learns from/ engages with/ practices from within feminisms. Constant is inspired by the principles of copyleft, Free/Libre + Open Source Software while formulating its own critic towards it. Constant loves collective, digital, artistic and thoughtful practices. Constant organises transdisciplinary, open-ended worksessions. Constant creates installations, publications and exchanges.
+
+<br/><br/>
+
+## Germany
+
+**Institutions:**
+
+- [ZKM | Center for Art and Media Karlsruhe](https://zkm.de/) (Karlsruhe) - a major institution dedicated to contemporary art, media art and research at the intersection of art, technology and society; hosts exhibitions, research projects, labs, performances and educational programmes.
+
+**Festivals:**
+
+- [CTM Festival](https://www.ctm-festival.de/) (Berlin) - an annual festival and platform for adventurous music, art and digital culture exploring intersections of sound, electronic arts, technology and society through concerts, performances, installations, talks and research programmes.
+
+ <br/><br/>
+
+## France
+
+**Festivals:**
+
+- [New ways of seeing](https://www.newwaysofseeing.com/) (Paris) - a two-day festival in Paris. It presents a curated program of artistic-scientific conversations and live performances, welcoming international participants and holistically exploring how technological shifts are transforming human perception, creativity, and the structures of everyday life.
+
+ <br/><br/>
+
+## United Kingdom
+
+**Artist Spaces/Collective Spaces:**
+
+- [Furtherfield](https://www.furtherfield.org/about-us/) (London) - an independent platform and network exploring art, technology, ecology and social change through online projects, exhibitions, residencies, research and community programmes. Major contributor to DIWO culture. 
+
+ <br/><br/>
 
 ## Japan
 
-[Civic Creative Base Tokyo](https://ccbt.rekibun.or.jp/en/) - a hub where the public can explore their creative imaginations in society through the use of digital technology.
+**Institutions**
 
-[FabCafe](https://fabcafe.com/) (Tokyo, Kyoto, Osaka, Hida, Nagoya, Fuji) - a series of ‘Fab’ innovation labs that specialize in creating products, services and experiences of the future. 
+- [Civic Creative Base Tokyo](https://ccbt.rekibun.or.jp/en/) - a civic cultural hub and creative lab that supports artist-driven projects at the intersection of culture, technology and urban life.
+
+a hub where the public can explore their creative imaginations in society through the use of digital technology.
+
+- [YCAM | Yamaguchi Center for Arts and Media (山口情報芸術センター［YCAM］)](https://www.ycam.jp/en/aboutus/) (Yamaguchi) - multidisciplinary arts centre focused on media art, technology and community; produces exhibitions, commissioned works, research projects, residencies, workshops, education programs and public engagement initiatives that explore interactions between art, science and society.
+
+ <br/><br/>
+
+## Indonesia
+
+**Community:**
+
+- [LifePatch](https://lifepatch.id/Lifepatch) (Indonesia) - 'citizen initiative in art science and technology'; runs workshops, festivals, community research and DIY projects.
+
+ <br/><br/>
+
+## Australia
+
+**(Worker-owned) Non-Profit Organisations:**
+
+- [[ANAT] Australian Network for Art and Technology](https://www.anat.org.au/) - Adelaide-based non‑profit that supports experimental media arts by brokering collaborations between artists, scientists and technologists through residencies, commissions, professional development, research and events.
+
+ <br/><br/>
+
+## Latin America 
+
+**Community Tech:**
+
+- [Laboratorio Popular de Medios Libres (LPML)](https://laboratoriodemedios.org/nosotras.html) (Popular Free Media Laboratory) (Mexico City) - promoting free software, free culture, and community communication throughout Latin America. We are driven by a passion for helping communities take center stage in their stories and defend their rights and territories with accessible technology.
+
+## United States
+
+**(Worker-owned) Non-Profit Organisations:**
+
+- [Gray Area](https://grayarea.org/) (San Francisco) - arts and technology non‑profit running residencies, labs, education programs and public projects focused on the intersection of art, technology and civic engagement.
+
+**Community Tech / Civic Tech:**
+
+- [Detroit Community Technology Project](https://detroitcommunitytech.org/) (Detroit) - community technology hub providing digital skills training, device repair, community networking and projects centered on digital equity and local resilience.
+
+- [Community Tech New York](https://www.communitytechny.org/) (New York) - runs community tech programmes focused on digital access, skills, and local infrastructure through workshops, device repair and community-driven projects.
+
+- [Community Technology Collective (CTCollective)](https://www.ctcollective.org/) (New York) - Community technology collective, currently its only members are Detroit Community Technology Project and Community Tech New York.
+
+- [Allied Media Projects](https://alliedmedia.org/) (Detroit/US) - organiser and network supporting community media, arts and tech for social justice via the Allied Media Conference, trainings, and collaborative projects.
+
+**Small Press / Resource Nodes:**
+
+- [Iffy Books](https://iffybooks.net/about/) (Philadelphia) - offers a small selection of books and zines on hacking, free culture, gardening and adjacent topics.
