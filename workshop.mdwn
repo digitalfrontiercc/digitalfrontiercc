@@ -1,0 +1,20 @@
+# Workshop
+
+Spaces & Placesでは、世界中の物理的にある施設をまとめています。
+
+英語：[[spaces_and_places]]
+
+日本語：[[spaces_and_places_jp]]
+
+Organisations & Projectsでは、世界中の企画や組織、プロジェクトをまとめています。
+
+英語：[[organisations_and_projects]]
+
+日本語：[[organisations_and_projects_jp]]
+
+Resourcesでは、世界中の参考になる書類、リスト、考え方、フレームワークなどをまとめています。
+
+英語：[[resources]]
+
+日本語：[[resources_jp]]
+

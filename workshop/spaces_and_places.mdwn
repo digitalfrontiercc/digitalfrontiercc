@@ -1,6 +1,6 @@
 # Spaces & Places
 
-## the Netherlands
+## 🇳🇱 the Netherlands
 
 **Artist Spaces/Collective Spaces:**
 
@@ -38,23 +38,33 @@
 
 **Festivals:**
 
-- [ITERATIONS](https://iterations.online/) - Creative coding symposium. Takes place every year. How do recent technological developments empower makers to generate new creative avenues? How is the creative coding landscape going to evolve in the coming few years?
+- [ITERATIONS](https://iterations.online/) - Creative coding symposium. Takes place every year. How do recent technological developments empower makers to generate new creative avenues? How is the creative coding landscape going to evolve in the coming few years? ITERATIONS 2024 Symposium [Day 1](https://www.youtube.com/watch?v=VhqmF4PNIfc) & [Day 2](https://www.youtube.com/watch?v=RrtIS_x5qnA)
 
 - [STRP](https://strp.nl/) (Eindhoven) - festival and platform for art, technology and electronic culture presenting exhibitions, performances, workshops and symposiums.
 
 - [Dutch Design Week (DDW)](https://ddw.nl/) (Eindhoven) - annual design festival showcasing design, technology and social innovation across the city with exhibitions, talks and industry programs.
 
- <br/><br/>
+ <br/>
+***
+<br/>
 
-## Spain
+## 🇪🇸 Spain
+
+**Institutions:**
 
 - [Tabakalera](https://www.tabakalera.eus/en/) (Donostia/San Sebastian) - Tabakalera is a contemporary culture and city-arts center in San Sebastián (Donostia), Spain, housed in a renovated former tobacco factory. It hosts exhibitions, artist residencies, film and media programs, a medialab for collaborative digital and media projects, workshops, performances and events, and places strong emphasis on community engagement through participatory programs, local partnerships, educational activities and open-access creative spaces.
 
+**(Worker-owned) Non-Profit Organisations:**
+
 - [Espacio Open](https://espacioopen.com/#scroll) (Bilbao) - an ecosystem of creative and social projects of positive social impact located since 2009 in the Old Factory of Cookies of Bilbao (Fábrica Artiach) in the neighborhood of La Ribera de Deusto / Zorrotzaurre. We have more than 110,000 visitors per year, 14 workers and 2,000m2 of facilities. We work at the intersection of contemporary culture, technology and social issues. We develop our own projects in our spaces, as well as consulting and management projects and services for private and public entities. Our spaces house the center of creation and digital manufacture Fab Lab Bilbao. We promote and collaborate in creation, training and dissemination programs such as the Maker Faire Bilbao Festival, the creation residences for artists and designers and the European projects T-Factor, Eureka and Distributed Design.
 
- <br/><br/>
+- [Hangar](https://hangar.org/en/) - Founded in 1997, Hangar is an artist-run initiative committed to prototyping, updating, and sustaining the essential conditions for artistic production and research, understanding these activities as critical speculative practices that respond to and innovate within contemporary debates and urgencies.
 
-## Belgium
+ <br/>
+***
+<br/>
+
+## 🇧🇪 Belgium
 
 **Institutions:**
 
@@ -64,71 +74,117 @@
 
 - [Constant](https://constantvzw.org/site/-About-Constant-7-.html) (Brussels) - Constant is a non-profit organisation based in Brussels since 1997 and active in the fields of art, media and technology. Constant develops, investigates, supports and experiments. Constant learns from/ engages with/ practices from within feminisms. Constant is inspired by the principles of copyleft, Free/Libre + Open Source Software while formulating its own critic towards it. Constant loves collective, digital, artistic and thoughtful practices. Constant organises transdisciplinary, open-ended worksessions. Constant creates installations, publications and exchanges.
 
-<br/><br/>
+- [iMAL](https://www.imal.org/en/) (Brussels) - iMAL is a cultural organisation, located in Molenbeek, Brussels, combining the roles of an Art Center and a Lab. It is a meeting place between different communities with a special attention to the local scene. iMAL supports artistic practices that critically engage with digital technologies. It is a meeting place between different communities with a special attention to the local scene. We propose a multi-voiced and transdisciplinary approach to contemporary issues through our program consisting of exhibitions, research and production residencies, reflection and training, and public engagement.
 
-## Germany
+<br/>
+***
+<br/>
+
+## 🇦🇹 Austria
+
+**Festivals:**
+
+- [Art Meets Radical Openness [AMRO]](https://radical-openness.org/en) - a festival, a platform and a community for art, hacktivism and open cultures, organized since 2008 by servus.at in cooperation with the Linz University of Art, Department of Time-Based Media.
+
+<br/>
+***
+<br/>
+
+## 🇩🇪 Germany
 
 **Institutions:**
 
 - [ZKM | Center for Art and Media Karlsruhe](https://zkm.de/) (Karlsruhe) - a major institution dedicated to contemporary art, media art and research at the intersection of art, technology and society; hosts exhibitions, research projects, labs, performances and educational programmes.
 
+**Hackerspaces/FabLabs:**
+
+- [TOP Lab](https://www.top-ev.de/about/lab/) - TOP Lab reframes the laboratory as a shared space – informal and inviting rather than sterile and exclusive. Through audience participation, the intention is to demystify biology and radically lower the barrier to participation in modern bioscience, allowing anyone to innovate and explore. Using borrowed, recycled and home-built equipment, we recreate a typical do-it- yourself biology (DIY bio) lab and bring biology to the public. This environment also encourages a thoughtful examination and discussion of the implications and ethical questions surrounding cutting-edge bio-based technologies.
+
 **Festivals:**
 
 - [CTM Festival](https://www.ctm-festival.de/) (Berlin) - an annual festival and platform for adventurous music, art and digital culture exploring intersections of sound, electronic arts, technology and society through concerts, performances, installations, talks and research programmes.
 
- <br/><br/>
+ <br/>
+***
+<br/>
 
-## France
+## 🇫🇷 France
 
 **Festivals:**
 
 - [New ways of seeing](https://www.newwaysofseeing.com/) (Paris) - a two-day festival in Paris. It presents a curated program of artistic-scientific conversations and live performances, welcoming international participants and holistically exploring how technological shifts are transforming human perception, creativity, and the structures of everyday life.
 
- <br/><br/>
+ <br/>
+***
+<br/>
 
-## United Kingdom
+## 🇬🇧 United Kingdom
 
 **Artist Spaces/Collective Spaces:**
 
 - [Furtherfield](https://www.furtherfield.org/about-us/) (London) - an independent platform and network exploring art, technology, ecology and social change through online projects, exhibitions, residencies, research and community programmes. Major contributor to DIWO culture. 
 
- <br/><br/>
+ <br/>
+***
+<br/>
 
-## Japan
+## 🇯🇵 Japan
 
 **Institutions**
 
-- [Civic Creative Base Tokyo](https://ccbt.rekibun.or.jp/en/) - a civic cultural hub and creative lab that supports artist-driven projects at the intersection of culture, technology and urban life.
+- [Civic Creative Base Tokyo](https://ccbt.rekibun.or.jp/en/) - a civic cultural hub and creative lab that supports artist-driven projects at the intersection of culture, technology and urban life. a hub where the public can explore their creative imaginations in society through the use of digital technology.
 
-a hub where the public can explore their creative imaginations in society through the use of digital technology.
+- [YCAM | Yamaguchi Center for Arts and Media (山口情報芸術センター［YCAM］)](https://www.ycam.jp/en/aboutus/) (Yamaguchi) - multidisciplinary arts centre focused on media art, technology and community; produces exhibitions, research projects, workshops, education programs and public engagement initiatives that explore interactions between art, science and society.
 
-- [YCAM | Yamaguchi Center for Arts and Media (山口情報芸術センター［YCAM］)](https://www.ycam.jp/en/aboutus/) (Yamaguchi) - multidisciplinary arts centre focused on media art, technology and community; produces exhibitions, commissioned works, research projects, residencies, workshops, education programs and public engagement initiatives that explore interactions between art, science and society.
+ <br/>
+***
+<br/>
 
- <br/><br/>
+## 🇹🇼 Taiwan
 
-## Indonesia
+**Institutions:**
+
+- [Taiwan Contemporary Culture Lab](https://www.stuk.be/en/mission-vision) (Taipei) - Taiwan Contemporary Culture Lab (C-LAB) was initiated in 2018 by the Taiwan Living Arts Foundation of the Ministry of Culture, to the aim of becoming the leading site of contemporary culture in Taiwan, with “innovation” as its core belief and directive. It is a vision for future experimentation and a nexus for international exchange, an imagining of a culture rooted in Asian and Taiwanese everyday experiences. On the other hand, it domestically serves as a physical incubation center for creative endeavors. The hope is to catalyze the interplay between all forms of creativity while developing an open and inclusive cultural landscape or social environment.
+
+**Festivals:**
+
+- [ProjectPlayaround](https://projectplayaround.org) - a project of Arts & Technology with   1/ Workshop ,  2/ Seminar & Interviews, 3/ Exhibition,  4/ Performance and  5/ School Tour, encourages and stimulates the collaboration between Performing Arts and Media Arts.
+
+<br/>
+***
+<br/>
+
+## 🇮🇩 Indonesia
 
 **Community:**
 
 - [LifePatch](https://lifepatch.id/Lifepatch) (Indonesia) - 'citizen initiative in art science and technology'; runs workshops, festivals, community research and DIY projects.
 
- <br/><br/>
+<br/>
+***
+<br/>
 
-## Australia
+## 🇦🇺 Australia
 
 **(Worker-owned) Non-Profit Organisations:**
 
 - [[ANAT] Australian Network for Art and Technology](https://www.anat.org.au/) - Adelaide-based non‑profit that supports experimental media arts by brokering collaborations between artists, scientists and technologists through residencies, commissions, professional development, research and events.
 
- <br/><br/>
+ <br/>
+***
+<br/>
 
-## Latin America 
+## Latin America Wide
 
 **Community Tech:**
 
-- [Laboratorio Popular de Medios Libres (LPML)](https://laboratoriodemedios.org/nosotras.html) (Popular Free Media Laboratory) (Mexico City) - promoting free software, free culture, and community communication throughout Latin America. We are driven by a passion for helping communities take center stage in their stories and defend their rights and territories with accessible technology.
+- [Laboratorio Popular de Medios Libres](https://laboratoriodemedios.org/nosotras.html) (Popular Free Media Laboratory) - promoting free software, free culture, and community communication throughout Latin America. We are driven by a passion for helping communities take center stage in their stories and defend their rights and territories with accessible technology.
 
-## United States
+<br/>
+***
+<br/>
+
+## 🇺🇸 United States
 
 **(Worker-owned) Non-Profit Organisations:**
 

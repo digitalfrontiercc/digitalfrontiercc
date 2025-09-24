@@ -1,0 +1,44 @@
+**Essays:**
+
+- [Marc Garrett on DIWO](https://marcgarrett.org/2014/02/12/diwo-do-it-with-others-artistic-co-creation-as-a-decentralized-method-of-peer-empowerment-in-todays-multitude/) - DIWO (Do-It-With-Others): Artistic Co-Creation as a Decentralized Method of Peer Empowerment in Today’s Multitude. The practice of DIWO allows space for an openness where a rich mixing of components from different sources crossover and build a hybrid experience. It challenges and renegotiates the power roles between artists and curators. 
+
+- [The User Condition](https://theusercondition.computer/) - essay: What are the conditions for a computer user to gain agency, defined here as the ability to evade automatisms? What is the user’s horizon of autonomy within a built world made of software programmed by somebody else, when its logic is made inaccessible in the name of convenience?
+
+<br/>
+***
+<br/>
+
+**Philosophies:**
+
+* [permacomputing](https://permacomputing.net/) - Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture. ପໄଓ☾☼✫ -☆:*´ There are huge environmental and societal issues in today's computing, and permacomputing specifically wants to challenge them in the same way as permaculture has challenged industrial agriculture. With that said, permacomputing is an anti-capitalist political project. It is driven by several strands of anarchism, decoloniality, intersectional feminism, post-marxism, degrowth, ecologism.
+
+<br/>
+***
+<br/>
+
+**Tools, & Frameworks:**
+
+* [we take note](https://www.wetakenote.org/tool-library) - extensive tool library for collaboration and community building, introducing tools to create, maintain and measure impact. Essential for organisations to operate in a way that has a positive impact that can't be measured by $.
+    [collaboration guidebook](https://static1.squarespace.com/static/669f822f4e5fc7493d6fd928/t/66c4e8d50c5d6b2684f9e337/1724180696802/The+Collaboration+Guidebook+AUG2024.pdf) is only one of many.
+
+<br/>
+***
+<br/>
+
+**Information & Lists:**
+
+- [varia digital solidarity networks](https://etherdump.vvvvvvaria.org/publish/digital-solidarity-networks.diff.html) - a shared listing of tools, practices and readings for digital solidarity, conviviality and togetherness
+
+- [Civic Tech Field Guide](https://civictech.guide/) - The Civic Tech Field Guide is the world’s most complete collection of projects, tools, and organizations using tech for democracy. It’s primarily a [crowdsourced directory](https://directory.civictech.guide/) where you can find helpful [resources](https://civictech.guide/research) and inspiration, and share your own work with the world. We also publish research and regular updates about the state of the field.
+
+- [Alternative Internet](https://redecentralize.github.io/alternative-internet/) - A collection of interesting new networks and tech aiming at decentralisation (in some form).
+
+<br/>
+***
+<br/>
+
+**Monoskop:**
+
+**Monoskop** is an independent web-based educational resource and research platform for arts, culture and humanities founded in 2004. Monoskop features wiki pages with multilingual genealogical bibliographies of contemporary themes and movements in art, culture, and society such as [Fediverse](https://monoskop.org/Fediverse), [technofeminism](https://monoskop.org/Technofeminism), [decolonial aesthetics](https://monoskop.org/Decolonial_aesthetics), [the Anthropocene](https://monoskop.org/Anthropocene), [community radio](https://monoskop.org/Community_radio), [free software](https://monoskop.org/Free_software), [artists' publishing](https://monoskop.org/Artists%27_publishing), [performance](https://arc.net/l/quote/kjvxnjbs), [sound art](https://monoskop.org/Sound_art) and [experimental film and video](https://monoskop.org/Experimental_film), accompanied by personal bio-bibliographical profiles of their exponents. Many of the titles in the bibliographies are linked to electronic versions of publications made available on Monoskop or other [free and libre libraries](https://arc.net/l/quote/kqjppsuo). (2023)
+
+- [Community Servers List](https://monoskop.org/Community_servers) - For interdependent, feminist, trans*feminist, free/libre, self-hosted, experimental, federated, radical, autonomous, collective, cooperative, community and art servers
