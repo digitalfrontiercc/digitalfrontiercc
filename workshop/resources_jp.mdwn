@@ -1,3 +1,5 @@
+# リソース
+
 **エッセイ：**
 
 - [Marc Garrett on DIWO](https://marcgarrett.org/2014/02/12/diwo-do-it-with-others-artistic-co-creation-as-a-decentralized-method-of-peer-empowerment-in-todays-multitude/) - DIWO（Do-It-With-Others）：今日の群衆におけるピアのエンパワーメントのための分散的手法としての芸術的共創。DIWOの実践は、異なる出所の要素が豊かに混ざり合いクロスオーバーしてハイブリッドな体験を構築するような開かれた空間を可能にする。これはアーティストとキュレーターの権力役割に挑戦し再交渉する。
